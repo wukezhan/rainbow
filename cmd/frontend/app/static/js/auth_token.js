@@ -1,0 +1,1 @@
+var gotty_auth_token = '222222'
